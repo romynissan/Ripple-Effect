@@ -1,0 +1,76 @@
+1
+Question:You're on an unknown planet, gathering resources for NASA. You complete your mission and while trying to launch, you hear a loud boom from your spacecraft. The engine blew out. Do you call for help or try to fix the problem?
+Answer1:Call for help
+Answer2:Try to fix my spacecraft
+2
+Question:You call for help but can't reach mission control, do you try to fix your spacecraft or explore the planet?
+Answer1:Try to fix my spacecraft
+Answer2:Explore the planet
+3
+Question:After looking at the damage on your spacecraft, a chunk of the metal has eroded due to the unknown atmosphere. Do you explore the planet or sit and wait for help?
+Answer1:Explore the planet
+Answer2:Wait for help
+4
+Question:You want to explore the planet, but aren't able to carry much. What do you bring with you, a flashlight or a shovel?
+Answer1:A flashlight
+Answer2:A shovel
+5
+Question:Taking your flashlight, you decide to go explore the planet. Unboarding, you see hills on the left and a forest on the right. Where do you go?
+Answer1:Left towards the hills
+Answer2:Right towards the forest
+6
+Question:You go left towards the hills. After hours of walking, you stumble upon a piece of metal-alloy debris half stuck in the ground. You are unable to dig it out with no tools, do you go back to the spaceship or try to rip it out?
+Answer1:Go back to the spaceship
+Answer2:Try to rip it out
+7
+Question:As you try to rip it out, the metal breaks in half. Do you try to fix your spacecraft with the piece you have or head back, grab a flashlight and try your luck at the forest?
+Answer1:Try to fix my spacecraft
+Answer2:Go explore the forest
+8
+Question:After hours of work, you are unable to fix the spacecraft with only half the metal piece. You realize you are able create an antenna to try and reach mission control. Do you try to create an antenna or go explore the forest?
+Answer1:Explore the forest with a flashlight
+Answer2:Construct an antenna
+9
+Question:You go left towards the hills. After hours of walking, you notice a piece of metal-alloy stuck in the ground. You manage to dig it out with your shovel and it seems perfect for your spacecraft. Do you try to fix your spacecraft or grab a flashlight and explore the forest?
+Answer1:Go back to my spacecraft
+Answer2:Grab a flashlight and go explore forest
+10
+Question:You enter the forest and immediately get engulfed in darkness. Unable to see, you have the option of heading back to the spacecraft to get the flashlight, or just explore the hills on the left. What do you do?
+Answer1:Go back to the spacecraft
+Answer2:Explore hills
+11
+Question:You enter the forest and immediately get engulfed in darkness. Turning on your flashlight, you see the outline of something big. Scared, you think about heading back to explore the hills, or do you keep going forward to investigate?
+Answer1:Go back and explore the hills
+Answer2:Investigate further
+12
+Question:You go forward to investigate and find a weird metal orb. It appears to be a spaceship built out of a strange metal alloy. Looking around, there are no signs of anyone nearby. Do you board the spacecraft or return to explore the hills?
+Answer1:Board the spacecraft
+Answer2:Return to my spacecraft and explore the hills
+13
+Question:You enter the new spaceship and see only two buttons, green and red. Above them were weird markings that appeared to be some sort of a strange language. Which button do you press?
+Answer1:Green button
+Answer2:Red button
+14
+Question:You realize that waiting for mission control to help won't get you anywhere. Do you try to fix your spacecraft or try to explore the planet?
+Answer1:Try to fix the spacecraft
+Answer2:Explore the planet
+15
+Question:You decide to go explore the planet and you bring your shovel, do you start by going left towards the hills or right towards the forest?
+Answer1:Left towards the hills
+Answer2:Right towards the forest
+16
+Question:By creating an antenna, you were able to contact mission control to come and get you. Luckily you have enough rations to last you until they come. You are saved.
+Answer1:None
+Answer2:None
+17
+Question:You go back to your spacecraft with the piece of metal-alloy you dug out. After hours of hard work, it turns out to be exactly what you need and your spacecraft is fixed. You input your destination for home and take off.
+Answer1:None
+Answer2:None
+18
+Question:You hit the green button. The doors close and everything begins to shake. The spacecraft takes off. Realizing that you didn't input a destination, you have no idea where you are going. The spaceship enters deep space and you float away, lost forever. 
+Answer1:None
+Answer2:None
+19
+Question:You hit the red button. The doors close and everything begins to shake. The lights inside turn red and you hear loud sounds. You hear strange sounds, almost as if something or someone is speaking. The spacecraft explodes, killing you.
+Answer1:None
+Answer2:None

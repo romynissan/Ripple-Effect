@@ -1,0 +1,120 @@
+1
+Question:It's 11 pm and you're home alone. What do you do to pass the time?
+Answer1:Play video games on your computer
+Answer2:Watch a movie in your bed
+2
+Question:While playing a game, you get a ring notification on your phone. It says "movement detected at your front door". What do you do?
+Answer1:Open it
+Answer2:Ignore it and keep gaming
+3
+Question:You open the notification and see nothing. What do you do?
+Answer1:Go look outside through the window
+Answer2:Continue gaming
+4
+Question:You go look outside and don't see anything. Do you go back to gaming or go to bed?
+Answer1:Continue gaming
+Answer2:Go to bed
+5
+Question:After gaming for a while, you get another ring notification and open it. You are shocked when you see a black figure at your front door. What do you do?
+Answer1:Go peek through a window
+Answer2:Call the police
+6
+Question:You peek through the window and the figure is gone. As you make your way back to your bedroom, you hear someone knocking at on your backdoor. What do you do?
+Answer1:Hide in your room
+Answer2:Call the police
+7
+Question:After hiding in your bedroom closet for a while. You hear glass break downstairs and thinks it's a window. What do you do?
+Answer1:Investigate
+Answer2:Keep hiding
+8
+Question:You slowly creep down the stairs and find that it wasnt a window that broke, it was a glass vase, someone is inside. What do you do?
+Answer1:Leave the house
+Answer2:Grab a kitchen knife
+9
+Question:You exit the house and run to the neighbours. You are saved
+Answer1:None
+Answer2:None
+10
+Question:The police answer the phone and tell you to hide somewhere in the meantime. Where do you hide?
+Answer1:Under your bed
+Answer2:In the bathroom
+11
+Question:The intruder manages to break in through the backdoor. You hear footsteps slowly coming up the stairs. The intruder comes up, into your bedroom and stops in front of your bed... Game over
+Answer1:None
+Answer2:None
+12
+Question:You hide in the bathroom and luckily, you can lock the door. The intruder manages to break in through the backdoor and walks to the bathroom and starts banging on the door but you're able to keep it shut. Suddenly, you hear cop sirens arrive and the banging stops
+Answer1:None
+Answer2:None
+13
+Question:Your standing in your kitchen with a kitchen knife in your hand. You hear noise coming from the basement so you go investigate. You see a man standing in the dark, what do you do?
+Answer1:Charge at him
+Answer2:RUN
+14
+Question:You charge at him and stab him... suddenly... you wake up
+Answer1:None
+Answer2:None
+15
+Question:You start running up the stairs but you hear the man's footsteps sprinting after. What do you do?
+Answer1:Turn around and kick him back down
+Answer2:Keep running
+16
+Question:You turn around a kick him down the stairs. You're able to exit the house and escape. You are saved
+Answer1:None
+Answer2:None
+17
+Question:You keep running... then you feel a hand on your back. Game over
+Answer1:None
+Answer2:None
+18
+Question:You keep hiding in the closet, but then all of a sudden you hear footsteps downstairs. You decide to get out of the closet and what do you do?
+Answer1:Hide under the bed
+Answer2:Try to find something to defend yourself
+19
+Question:You exit the closet and look for something to defend yourself. What do you choose?
+Answer1:Scissors
+Answer2:An empty beer bottle
+20
+Question:The footsteps are slowly getting closer and closer coming up the stairs. What do you do?
+Answer1:Hide by the door with your scissors and get ready to attack the intruder
+Answer2:Try to escape by the window
+21
+Question:As the intruder enters the room, you stab him with the scissors and make your escape. You exit the house and make it to your neighbours, you are saved.
+Answer1:None
+Answer2:None
+22
+Question:The footsteps are slowly getting closer and closer coming up the stairs. What do you do?
+Answer1:Hide by the door with your bottle and get ready to attack the intruder
+Answer2:Try to escape by the window
+23
+Question:As the intruder enters the room, you hit him with the bottle, but it has no effect on him... Game over
+Answer1:None
+Answer2:None
+24
+Question:You try to exit by the window. But, as you are opening it, you hear the foosteps sprinting into your room... Game over
+Answer1:None
+Answer2:None
+25
+Question:You go to bed, but not long after, you're suddenly awoken to the sound of glass breaking downstairs and think it's a window. What do you do?
+Answer1:Investigate
+Answer2:Call the police
+26
+Question:While watching a movie, you get a ring notification on your phone. It says "movement detected at your front door". What do you do?
+Answer1:Open it
+Answer2:Ignore it and keep watching
+26
+Question:While watching, you get a notification saying "ALERT Movement at your front door". You open the notification and see nothing. What do you do?
+Answer1:Go look outside through the window
+Answer2:Continue watching
+27
+Question:You go look outside and don't see anything. Do you go back to watching your movie or go to bed?
+Answer1:Continue watching movie
+Answer2:Go to bed
+28
+Question:You're watching your movie when, all of a sudden, your house alarm goes off. What do you do?
+Answer1:Go downstairs and investigate
+Answer2:Call the police
+29
+Question:You go downstairs to investigate but find nothing out of the ordinary. What do you do?
+Answer1:Leave the house
+Answer2:Grab a kitchen knife

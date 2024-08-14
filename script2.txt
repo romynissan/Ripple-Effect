@@ -1,0 +1,88 @@
+1
+Question:You wake up in a forest, not knowing where you are. Do you explore the forest or climb a tree to get a better view?
+Answer1:Start exploring the forest
+Answer2:Climb a tree
+2
+Question:You decided to climb a tree and make your way to the top. Once above, you spot an old abandoned shack to the left and a long road to the right, where do you go?
+Answer1:Old shack
+Answer2:Road
+3
+Question:On your way to the shack, fog engulfs you, blinding you. When it is gone, there is a shiny rock and the path is split in two. Where do you go?
+Answer1:Left
+Answer2:Right
+4
+Question:You went left and have found yourself back in the same spot with that same tiny rock. This time, do you go left or right?
+Answer1:Left
+Answer2:Right
+5
+Question:You decided to go right and after hours of walking, you find the shack. However it seems old and battered down, do you investigate the house or head back?
+Answer1:Investigate shack
+Answer2:Head back
+6
+Question:You start making your way towards the road, but on the way, you hear rustling and movement coming from the bushes. Do you investigate or ignore it?
+Answer1:Investigate the noise
+Answer2:Ignore the noise
+7
+Question:You investigate the noise and find a couple squirrels, but you see a bag behind them. Do you open the bag or leave it?
+Answer1:Open the bag
+Answer2:Leave the bag
+8
+Question:You eventually make your way to the road. Do you wait by the side for a car to pass or do you start walking in hopes of finding help?
+Answer1:Wait by the side
+Answer2:Start walking
+9
+Question:As you wait by the side of the road, a creepy man in a white van stops and asks you if you need a ride. Do you accept or decline?
+Answer1:Accept
+Answer2:Decline, and start walking along the road
+10
+Question:You start exploring the forest. Along the way, you see smoke coming from a campfire in the sky. At the same time, you hear noise coming from your right. Do you continue towards the smoke or investigate the noise?
+Answer1:Head towards the smoke
+Answer2:Investigate the noise
+11
+Question:You find the smoke and it appears to me coming from a campfire at an empty campground. Do you scavenge to try to find something helpful or keep exploring to try and find someone nearby?
+Answer1:Scavenge around
+Answer2:Try to find someone
+12
+Question:You don't find anything of use around the campfire. Do you climb a tree to get a better view or try to find someone nearby?
+Answer1:Climb a tree
+Answer2:Try to find someone
+13
+Question:You investigate the shack and inside find a fully functioning Jeep. You escape the forest in the jeep.
+Answer1:None
+Answer2:None
+14
+Question:You open the bag and find a phone. However, the phone has no reception. What do you do?
+Answer1:Climb a tree to try and catch reception 
+Answer2:Keep exploring the forest to hope to find reception
+15
+Question:You walk along the road and see a diner on the side of the road. You make the way to the diner and call for help. You are saved.
+Answer1:None
+Answer2:None
+16
+Question:You accept the creepy man's help and you soon realize that you made a big mistake. You are being kidnapped. Game over.
+Answer1:None
+Answer2:None
+17
+Question:You investigate the noise and realize you have made a big mistake. Behind the bushes is a big hungry grizzly bear. What do you do?
+Answer1:Stand still
+Answer2:Run away
+18
+Question:You run away and the hungry grizzly bear chases you. Game over.
+Answer1:None
+Answer2:None
+19
+Question:The bear seems to ignore you and walks away. Do you proceed to investigate the smoke you saw earlier?
+Answer1:Yes
+Answer2:Yes, there is no better option
+20
+Question:You manage to find the nearby campers. They help you to safety. You are saved.
+Answer1:None
+Answer2:None
+21
+Question:You climb a tree and manage to get reception. You call someone for help. You are saved.
+Answer1:None
+Answer2:None
+22
+Question:You stumble upon a road and still get no reception. Do you wait by the side for someone to offer you a ride or do you start walking in hopes to find help?
+Answer1:Wait by the side
+Answer2:Start walking

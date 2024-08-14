@@ -1,0 +1,13 @@
+#File format: page number, the question, followed by two answers. Punctuation must be the same
+1
+Question:Left or right?
+Answer1:Left
+Answer2:Right
+2
+Question:Up or down?
+Answer1:Up
+Answer2:Down
+3
+Question:Forward or backward?
+Answer1:Forward
+Answer2:Backward

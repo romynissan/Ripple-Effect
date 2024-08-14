@@ -1,0 +1,37 @@
+#File format: page number, the question, followed by two answers. Punctuation must be the same
+1
+Question:You are on a path, and you have the choice of going left or right. Where do you go?
+Answer1:Left
+Answer2:Right
+2
+Question:You go left, and see a dragon sleeping on the ground. You have a choice of running away to the forest up ahead or fighting it with a sword on the ground near it. What do you do?
+Answer1:Run to the forest
+Answer2:Pick up the sword and fight
+3
+Question:You go right and see a helicopter in the sky over you. What do you do?
+Answer1:Scream for help
+Answer2:Hide near a rock nearby
+4
+Question:You run to the forest and get captured by gremlins, who take you their fortress. They plan on eating you alive. What do you do?
+Answer1:Accept your fate
+Answer2:Start shaking the cage in hope that it breaks
+5
+Question:You pick the sword to fight, and the dragon awakens, spotting you. As you approach it with the sword, it burns you alive with its fire. You died.
+Answer1:None
+Answer2:None
+6
+Question:You scream for help and the helicopter spots you. It lets down a ladder and you clutch on. It carries you back to civilization. You are saved.
+Answer1:None
+Answer2:None
+7
+Question:You hide near a rock nearby, and the helicopter passes over you. You continue walking and the fall into a rivene, lost to the forest forever.
+Answer1:None
+Answer2:None
+8
+Question:You accept your fate. The gremlins roast you over a fire and you die a slow and painful death.
+Answer1:None
+Answer2:None
+9
+Question:You start shaking the cage and it breaks setting you free. The gremlins call for backup and you are surrounded. They spear you to death.
+Answer1:None
+Answer2:None
