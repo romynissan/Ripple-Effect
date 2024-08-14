@@ -1,11 +1,5 @@
 Ripple Effect README
 
-Names - Student Number:
-Dimitri Perron - 2230233
-Romy Nissan - 2230908
-Ryan El-Khoury - 2230344
-Zayden Kung'u - 2232072
-
 Overview
 Ripple Effect is an interactive computer game designed to give users a captivating adventure experience that is inspired off the mobile game, "Lifeline". Using various intricate data structures, the game offers a user-friendly interface and extensive customization options. Developed in Python, it leverages directed graphs, nested dictionaries, and classes to process structured text files seamlessly, enabling users to immerse themselves in fully customizable narratives with consequences tied to their in-game decisions.
 
